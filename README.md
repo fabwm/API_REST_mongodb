@@ -1,2 +1,2 @@
-# API_REST_mongodb
-a simple API comunicating with MongoDB. I imagine the application as a web app library
+# 2404-api-node-express
+Projeto utilizado no curso da Alura
